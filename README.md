@@ -1,10 +1,1 @@
-# k26medtech
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+### Thank you for visiting our website. We are currently in the process of building and updating our site to provide you with the best possible experience. Please excuse any inconvenience or missing information you may encounter during this time. We appreciate your patience and hope to have our new site up and running soon
