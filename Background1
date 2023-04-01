@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <style>
+  .red-text {
+  color: red;
+  }
 </style>
 <head>
   <title>K26 MedTech</title>
