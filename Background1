@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<style>
+</style>
+<head>
+  <title>K26 MedTech</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <h1>Welcome to my webpage!</h1>
+  <p style="color:red;">The primary goal of this website is to spread awareness and take action for underpriviledged children.</p>
+</body>
+</html>
