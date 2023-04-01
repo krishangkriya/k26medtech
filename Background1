@@ -11,6 +11,6 @@
 </head>
 <body>
   <h1>Welcome to my webpage!</h1>
-  <p style="color:red;">The primary goal of this website is to spread awareness and take action for underpriviledged children.</p>
+  <p class="red-text">The primary goal of this website is to spread awareness and take action for underpriviledged children.</p>
 </body>
 </html>
