@@ -35,4 +35,3 @@ Feel free to reach out to our co-founders directly:
 Additionally, if you're interested in learning more about our program, organization or how you can be part of our mission, do not hesitate to get in touch.
 
 Join us in our journey to make learning fun and accessible for every child!
-
