@@ -30,9 +30,4 @@ Feel free to reach out to our co-founders directly:
 
 - **Krishang Shanmuganathan**: For inquiries, suggestions, or feedback, please email Krishang at trionchild@gmail.com. He’s ready to assist you with any aspect of K26MedTech’s organization and initiatives.
 
-- **Krish Shah**: Krish is also available to address your queries and provide support. You can email him at khs013007@gmail.com. He looks forward to hearing from you and is keen to help.
-
-Additionally, if you're interested in learning more about our program, organization or how you can be part of our mission, do not hesitate to get in touch.
-
-Join us in our journey to make learning fun and accessible for every child!
 
