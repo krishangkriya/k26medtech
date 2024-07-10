@@ -7,6 +7,7 @@ So, get ready to dive into a world where questions lead to discoveries, learning
 Together, let's unleash the power of curiosity and watch as it transforms the world, one young mind at a time.
 
 https://chatgpt.com/g/g-ypzWIVd5d-k26medtech-org 
+https://chat.openai.com/
 
 ### What is K26MedTech?
 
