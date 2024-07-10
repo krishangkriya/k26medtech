@@ -6,6 +6,8 @@ Our programs are crafted with care, blending fun with education, ensuring that e
 So, get ready to dive into a world where questions lead to discoveries, learning is a joyous adventure, and your curiosity is the key to unlocking a universe of knowledge. Welcome aboard, young explorers! Let's set sail into the vast ocean of learning, where each wave brings a new wonder, a new understanding, and a new dream.
 Together, let's unleash the power of curiosity and watch as it transforms the world, one young mind at a time.
 
+https://chatgpt.com/g/g-ypzWIVd5d-k26medtech-org 
+
 ### What is K26MedTech?
 
 **Overview**
