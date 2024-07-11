@@ -8,7 +8,7 @@ Together, let's unleash the power of curiosity and watch as it transforms the wo
 
 https://chatgpt.com/g/g-ypzWIVd5d-k26medtech-org 
 
-https://chat.openai.com/g/g-ypzWIVd5d-k26medtech-org
+https://chat.openai.com/
 
 ### What is K26MedTech?
 
